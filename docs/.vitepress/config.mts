@@ -14,7 +14,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/assets/logo.jpg',
+    logo: '/logo.jpg',
     // https://vitepress.dev/reference/default-theme-config
 
     // 导航栏

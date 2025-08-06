@@ -6,7 +6,7 @@ hero:
   text: Welcome to my personal blog.
   tagline: 前端 知识体系地图
   image:
-    src: /assets/logo.jpg
+    src: /logo.jpg
     alt: logo
   actions:
     - theme: brand
@@ -19,17 +19,17 @@ hero:
 # 按钮下方的描述
 features:
   - icon:
-      src: /assets/coder.svg
+      src: /coder.svg
       alt: coder
     title: Web前端
     details: 平平无奇搬砖程序员。
   - icon:
-      src: /assets/cat.svg
+      src: /cat.svg
       alt: cat
     title: 喜欢猫猫
     details: 养了三只猫：大哥-果冻，二弟-点点，三妹-砂糖。
   - icon:
-      src: /assets/youth.svg
+      src: /youth.svg
       alt: youth
     title: 斜杆青年
     details: 是个平平无奇但是又很热爱学习的斜杆青年。
