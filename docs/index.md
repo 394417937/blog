@@ -22,16 +22,19 @@ features:
       src: /coder.svg
       alt: coder
     title: Web前端
+    link: /leadingEnd/Vue2/index.md
     details: 平平无奇搬砖程序员。
   - icon:
       src: /cat.svg
       alt: cat
     title: 喜欢猫猫
+    link: /life/cat/index.md
     details: 养了三只猫：大哥-果冻，二弟-点点，三妹-砂糖。
   - icon:
       src: /youth.svg
       alt: youth
     title: 斜杆青年
+    link: /about/index.md
     details: 是个平平无奇但是又很热爱学习的斜杆青年。
 ---
 
