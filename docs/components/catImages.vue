@@ -27,6 +27,7 @@ const images = [
   { src: 'public/cat-4.jpg', alt: 'cat-4' },
   { src: 'public/cat-5.jpg', alt: 'cat-5' },
   { src: 'public/cat-6.jpg', alt: 'cat-6' },
-  { src: 'public/cat-7.jpg', alt: 'cat-7' }
+  { src: 'public/cat-7.jpg', alt: 'cat-7' },
+  { src: 'public/cat-8.jpg', alt: 'cat-8' }
 ]
 </script>
